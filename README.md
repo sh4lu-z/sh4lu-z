@@ -1,53 +1,63 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=33FF00&background=0D1117&center=true&vCenter=true&width=600&lines=root%40sh4lu-z%3A~%23+./init_profile.sh;Loading+System+Modules...;Identity%3A+Root+(Sh4lu_z);Target%3A+WhatsApp+Bots+%26+Cybersecurity;Status%3A+Online+%E2%9C%85" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED...;Identity:+ROOT+(Sh4lu_z);Target:+Cybersecurity+%26+Automation;Status:+Online+%E2%9C%85" alt="Typing SVG" />
+</div>
+<div align="center">
+  <h3><code>&lt;!-- Welcome to my digital fortress --&gt;</code></h3>
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center">
+        <h1>👋 Hi, I'm <span style="color:#00FF00">Sh4lu_z</span></h1>
+        <h3>🛡️ Ethical Hacker | 🤖 Bot Developer | 🇱🇰 Sri Lanka</h3>
+        <p>
+         I am a 17-year-old developer passionate about breaking barriers and automating the boring stuff. 
+         My world revolves around <b>Combined Maths, Physics,</b> and the art of <b>Code</b>.
+        </p>
+        <p>
+          🌱 <b>Currently Learning:</b> Advanced Penetration Testing & AI Integration <br>
+          🔭 <b>Working On:</b> WhatsApp Multi-Device Bots & Custom Automation Tools <br>
+          ⚡ <b>Motto:</b> <i>"Talk is cheap. Show me the code."</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<h2 align="center">🛠️ <span style="color:#00FF00">The Arsenal</span> (Tech Stack)</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,java,c,cpp,php,rust,matlab,julia,r,kali,linux,arch,ubuntu,android,windows,bash,vscode,git,github,docker,replit,mongodb,mysql,firebase,heroku,vercel,ps,ai,pr,figma&perline=12&theme=dark" />
+</div>
+
+<br />
+
+<h2 align="center">📊 <span style="color:#00FF00">System Metrics</span></h2>
+<div align="center">
+  <a href="https://github.com/sh4lu-z">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sh4lu-z&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4lu-z&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <pre>
-   ▄▄▄▄▄    ▄  █ ▄   █        ▄   ▄███▄   
-  █     ▀▄ █   █ █   █         █  █▀   ▀  
-▄  ▀▀▀▀▄   ██▀▀█ █   █    █     █ █▄▄▄▄   
- ▀▄▄▄▄▀    █   █ ███▄█     █    █ █   █   
-              █      ▀       █  █ ▀────▀   
-             ▀                █ ▀         
-                              ▀           
-  </pre>
-  <h3>🛡️ Ethical Hacker | 🤖 Bot Developer | 🇱🇰 Sri Lanka</h3>
+  <h3>📫 <span style="color:#00FF00">Connect Uplink</span></h3>
+  <a href="https://wa.me/94741358233">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/sh4lu-z">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<p align="center"> 
-  <samp>
-    > Accessing mainframe... <br>
-    > User: <b>Root</b> (Sh4lu_z) <br>
-    > Motto: <i>"Talk is cheap. Show me the code."</i>
-  </samp>
-</p>
-
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sh4lu-z&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4lu-z&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="languages" />
-</div>
-
-<br/>
-
-<h3 align="center">🛠️ System Tools & Modules</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,python,js,nodejs,bash,c,cpp,java,html,css,git,github,vscode,docker,mongodb,firebase,mysql,heroku,vercel,replit,ps,ai,pr,figma,android,windows,arch,ubuntu&perline=14&theme=dark" />
-</div>
-
-<br/>
-
-<div align="center">
-  <p align="center">
-    <a href="https://wa.me/94741358233">
-      <img src="https://img.shields.io/badge/Connect_via-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-  </p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=20" />
+  <img src="https://komarev.com/ghpvc/?username=sh4lu-z&label=PROFILE+VIEWS&style=flat-square&color=00ff00" alt="sh4lu-z" />
 </div>
