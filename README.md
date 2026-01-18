@@ -31,7 +31,7 @@
 
 <h2 align="center">🛠️ <span style="color:#00FF00">The Arsenal</span> (Tech Stack)</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,linux,kali,git,github,vscode,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,java,c,cpp,php,rust,matlab,julia,r,kali,linux,arch,ubuntu,android,windows,bash,vscode,git,github,docker,replit,mongodb,mysql,firebase,heroku,vercel,ps,ai,pr,figma&perline=12&theme=dark" />
 </div>
 
 <br />
