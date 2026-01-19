@@ -39,9 +39,8 @@
 <h2 align="center">📊 <span style="color:#00FF00">System Metrics</span></h2>
 <div align="center">
   <a href="https://github.com/sh4lu-z">
-    <img height="180" src="https://github-readme-stats-tau-two-10.vercel.app/api?username=sh4lu-z&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    
-    <img height="180" src="https://github-readme-stats-tau-two-10.vercel.app/api/top-langs/?username=sh4lu-z&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats-tau-two-10.vercel.app/api?username=sh4lu-z&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180" src="https://github-readme-stats-tau-two-10.vercel.app/api/top-langs/?username=sh4lu-z&layout=compact&theme=radical&hide_border=true" />
   </a>
 </div>
 
