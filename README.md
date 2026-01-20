@@ -12,7 +12,7 @@
     <tr>
       <td valign="center">
         <h1>👋 Hi, I'm <span style="color:#00FF00">Sh4lu_z</span></h1>
-        <h3>🛡️ Ethical Hacker | 🤖 Bot Developer | 🇱🇰 Sri Lanka</h3>
+        <h3>🛡️ Ethical Hacker | 🤖  Developer | 🇱🇰 Sri Lanka</h3>
         <p>
          I am a 17-year-old developer passionate about breaking barriers and automating the boring stuff. 
          My world revolves around <b>Combined Maths, Physics,</b> and the art of <b>Code</b>.
